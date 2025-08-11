@@ -1,5 +1,5 @@
 {
-	"name": "usgs-quakes-mcp",
+	"name": "@iflow-mcp/usgs-quakes-mcp",
 	"version": "1.0.0",
 	"main": "index.js",
 	"type": "module",
